@@ -1,0 +1,4 @@
+services:
+#    jhf_user.example:
+#        class: JHF\UserBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
